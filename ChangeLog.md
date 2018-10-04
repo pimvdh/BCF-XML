@@ -18,7 +18,7 @@ markup.xsd
 
   * Removed element "Comment/Status". In V2.1 the status of a topic is represented only by the attrbute "Topic/TopicStatus".
 
-  * Removed element "Comment/Topic/GUID". Backreference to the topic is not needed.
+  * Removed element "Comment/Topic". Backreference to the topic is not needed.
 
   * Removed element "Comment/ReplyToComment".
 
